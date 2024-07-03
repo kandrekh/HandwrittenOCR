@@ -1,0 +1,2 @@
+# HandwrittenOCR
+Extracts handwritten texts
